@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/ui/src/lib/components/thf-rich-text/shared/thf-toolbar-source-dialog/thf-toolbar-source-dialog.component.css"],
+  "sourcesContent": [".thf-source-textarea {\n  width: 100%;\n  min-height: 320px;\n  font-family: 'Courier New', Courier, monospace;\n  font-size: 13px;\n  line-height: 1.6;\n  padding: 12px;\n  border: 1px solid var(--border-color);\n  border-radius: var(--border-radius);\n  resize: vertical;\n  outline: none;\n  box-sizing: border-box;\n  color: var(--color-content);\n  background-color: var(--background-color-content);\n}\n\n.thf-source-textarea:focus {\n  border-color: var(--border-color-focus);\n}\n"],
+  "mappings": ";AAAA,CAAC;AACC,SAAO;AACP,cAAY;AACZ;AAAA,IAAa,aAAa;AAAA,IAAE,OAAO;AAAA,IAAE;AACrC,aAAW;AACX,eAAa;AACb,WAAS;AACT,UAAQ,IAAI,MAAM,IAAI;AACtB,iBAAe,IAAI;AACnB,UAAQ;AACR,WAAS;AACT,cAAY;AACZ,SAAO,IAAI;AACX,oBAAkB,IAAI;AACxB;AAEA,CAhBC,mBAgBmB;AAClB,gBAAc,IAAI;AACpB;",
+  "names": []
+}

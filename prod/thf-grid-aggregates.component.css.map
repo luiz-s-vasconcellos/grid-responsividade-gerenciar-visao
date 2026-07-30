@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/ui/src/lib/components/thf-grid/thf-grid-aggregates/thf-grid-aggregates.component.css"],
+  "sourcesContent": ["thf-grid-aggregates po-dropdown .po-dropdown {\n  display: block;\n}\n\nthf-grid-aggregates po-dropdown .po-dropdown-button {\n  border-color: var(--border-color-aggregates);\n}\n\nthf-grid-aggregates po-dropdown .po-dropdown-button span {\n  overflow: hidden;\n  white-space: nowrap;\n  text-overflow: ellipsis;\n  flex-grow: 1;\n  min-width: 0;\n}\n\nthf-grid-aggregates po-dropdown.k-cell-inner-right .po-dropdown-button span {\n  text-align: right;\n}\n\n.aggregate-pdf-export {\n  display: none;\n}\n\n.k-grid-pdf-export-element .aggregate-pdf-export {\n  display: block;\n}\n\n.k-grid-pdf-export-element .aggregate-content {\n  display: none;\n}\n"],
+  "mappings": ";AAAA,oBAAoB,YAAY,CAAC;AAC/B,WAAS;AACX;AAEA,oBAAoB,YAAY,CAAC;AAC/B,gBAAc,IAAI;AACpB;AAEA,oBAAoB,YAAY,CAJC,mBAImB;AAClD,YAAU;AACV,eAAa;AACb,iBAAe;AACf,aAAW;AACX,aAAW;AACb;AAEA,oBAAoB,WAAW,CAAC,mBAAmB,CAZlB,mBAYsC;AACrE,cAAY;AACd;AAEA,CAAC;AACC,WAAS;AACX;AAEA,CAAC,0BAA0B,CAJ1B;AAKC,WAAS;AACX;AAEA,CAJC,0BAI0B,CAAC;AAC1B,WAAS;AACX;",
+  "names": []
+}
