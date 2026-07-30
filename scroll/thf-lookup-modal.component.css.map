@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/ui/src/lib/components/thf-lookup/thf-lookup-modal/thf-lookup-modal.component.css"],
+  "sourcesContent": [".thf-accordion-selecteds.thf-accordion-modal .po-accordion-item-body-content {\n  padding: 0;\n}\n\npo-modal.thf-modal-lookup-zoom .po-modal-body {\n  padding: var(--spacing-sm) var(--spacing-2xl) var(--spacing-xs) var(--spacing-md);\n}\n\n.thf-lookup-body-content .thf-lookup-modal-body-search {\n  width: 60%;\n}\n\n@media screen and (max-width: 480px) {\n  .thf-lookup-body-content .thf-lookup-modal-body-search {\n    width: 100%;\n  }\n}\n"],
+  "mappings": ";AAAA,CAAC,uBAAuB,CAAC,oBAAoB,CAAC;AAC5C,WAAS;AACX;AAEA,QAAQ,CAAC,sBAAsB,CAAC;AAC9B,WAAS,IAAI,cAAc,IAAI,eAAe,IAAI,cAAc,IAAI;AACtE;AAEA,CAAC,wBAAwB,CAAC;AACxB,SAAO;AACT;AAEA,OAAO,YAAW,WAAY;AAC5B,GALD,wBAK0B,CALD;AAMtB,WAAO;AACT;AACF;",
+  "names": []
+}

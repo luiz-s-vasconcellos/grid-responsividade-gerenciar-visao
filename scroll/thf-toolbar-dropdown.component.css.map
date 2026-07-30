@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/ui/src/lib/components/thf-rich-text/shared/thf-toolbar-dropdown/thf-toolbar-dropdown.component.css"],
+  "sourcesContent": ["thf-toolbar-dropdown {\n  display: inline-block;\n  min-width: var(--toolbar-dropdown-min-width, 140px);\n}\n\nthf-toolbar-dropdown:focus {\n  outline: none;\n}\n\nthf-toolbar-dropdown:focus-visible .po-combo-input {\n  border-color: var(--color-focused);\n  outline-color: var(--outline-color-focused);\n  outline-offset: 2px;\n  outline-style: solid;\n  outline-width: var(--outline-width-focus-visible);\n}\n\nthf-toolbar-dropdown po-field-container-bottom .po-field-container-bottom {\n  --padding-bottom: 0;\n  padding-bottom: 0;\n}\n"],
+  "mappings": ";AAAA;AACE,WAAS;AACT,aAAW,IAAI,4BAA4B,EAAE;AAC/C;AAEA,oBAAoB;AAClB,WAAS;AACX;AAEA,oBAAoB,eAAe,CAAC;AAClC,gBAAc,IAAI;AAClB,iBAAe,IAAI;AACnB,kBAAgB;AAChB,iBAAe;AACf,iBAAe,IAAI;AACrB;AAEA,qBAAqB,0BAA0B,CAAC;AAC9C,oBAAkB;AAClB,kBAAgB;AAClB;",
+  "names": []
+}

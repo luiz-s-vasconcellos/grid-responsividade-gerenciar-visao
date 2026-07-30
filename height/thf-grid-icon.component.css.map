@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/ui/src/lib/components/thf-grid/thf-grid-icon/thf-grid-icon.component.css"],
+  "sourcesContent": ["po-icon {\n  font-size: 1.5rem;\n  display: inline-flex;\n}\n\n.thf-grid-icon-disabled {\n  color: var(--color-table-color-disabled, var(--color-disabled));\n  cursor: not-allowed !important;\n}\n"],
+  "mappings": ";AAAA;AACE,aAAW;AACX,WAAS;AACX;AAEA,CAAC;AACC,SAAO,IAAI,4BAA4B,EAAE,IAAI;AAC7C,UAAQ;AACV;",
+  "names": []
+}

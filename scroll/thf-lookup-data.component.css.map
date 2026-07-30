@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/ui/src/lib/components/thf-lookup-data/thf-lookup-data.component.css"],
+  "sourcesContent": [".thf-lookup-data .thf-lookup-data__search {\n  width: 60%;\n}\n\n.thf-lookup-data .thf-lookup-data__grid {\n  width: 100%;\n  overflow: visible;\n}\n\n.thf-accordion-selecteds.thf-accordion-modal .po-accordion-item-body-content {\n  padding: 0;\n}\n\n.po-field-container-content .thf-lookup-data {\n  display: flex;\n  align-items: center;\n}\n\n.po-field-container-content .thf-lookup-data po-helper {\n  margin-left: auto;\n  align-self: center;\n  margin-top: -8px;\n}\n\n@media screen and (max-width: 480px) {\n  .thf-lookup-data .thf-lookup-data__search {\n    width: 100%;\n  }\n}\n\nthf-lookup-data kendo-grid.k-grid .k-table-row .k-table-td.k-table-td-action {\n  position: relative;\n}\n"],
+  "mappings": ";AAAA,CAAC,gBAAgB,CAAC;AAChB,SAAO;AACT;AAEA,CAJC,gBAIgB,CAAC;AAChB,SAAO;AACP,YAAU;AACZ;AAEA,CAAC,uBAAuB,CAAC,oBAAoB,CAAC;AAC5C,WAAS;AACX;AAEA,CAAC,2BAA2B,CAb3B;AAcC,WAAS;AACT,eAAa;AACf;AAEA,CALC,2BAK2B,CAlB3B,gBAkB4C;AAC3C,eAAa;AACb,cAAY;AACZ,cAAY;AACd;AAEA,OAAO,YAAW,WAAY;AAC5B,GAzBD,gBAyBkB,CAzBD;AA0Bd,WAAO;AACT;AACF;AAEA,gBAAgB,UAAU,CAAC,OAAO,CAAC,YAAY,CAAC,UAAU,CAAC;AACzD,YAAU;AACZ;",
+  "names": []
+}

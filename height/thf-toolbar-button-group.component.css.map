@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/ui/src/lib/components/thf-rich-text/shared/thf-toolbar-button-group/thf-toolbar-button-group.component.css"],
+  "sourcesContent": [":host {\n  display: inline-flex;\n}\n\n.thf-button-group {\n  display: inline-flex;\n  align-items: center;\n  gap: var(--spacing-xs);\n}\n"],
+  "mappings": ";AAAA;AACE,WAAS;AACX;AAEA,CAAC;AACC,WAAS;AACT,eAAa;AACb,OAAK,IAAI;AACX;",
+  "names": []
+}

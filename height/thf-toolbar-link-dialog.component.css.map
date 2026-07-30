@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/ui/src/lib/components/thf-rich-text/shared/thf-toolbar-link-dialog/thf-toolbar-link-dialog.component.css"],
+  "sourcesContent": [".thf-link-dialog {\n  display: inline-flex;\n  align-items: center;\n  position: relative;\n}\n\n.thf-link-field {\n  margin-bottom: var(--spacing-sm);\n}\n"],
+  "mappings": ";AAAA,CAAC;AACC,WAAS;AACT,eAAa;AACb,YAAU;AACZ;AAEA,CAAC;AACC,iBAAe,IAAI;AACrB;",
+  "names": []
+}
